@@ -1,0 +1,17 @@
+{
+    "createSuccess": {
+        "firstNameField": "teste99",
+        "lastNameField": "teste888",
+        "usernameField": "teste99998",
+        "passwordField": "s3cret",
+        "confirmPasswordField": "s3cret"
+    },
+    "createFail": {
+        "firstNameField": "teste99",
+        "lastNameField": "teste888",
+        "usernameField": "teste99998",
+        "passwordField": "s3cret",
+        "confirmPasswordField": "123"
+    }
+    
+  }
